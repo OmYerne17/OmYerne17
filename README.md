@@ -1,6 +1,6 @@
-<br clear="both" align="center">
+<br clear="both">
 
-<h2 align="left">Hi 👋! My name is Om Yerane and I'm a Full stack Developer, from India</h2>
+<h2 align="center">Hi 👋! My name is Om Yerane and I'm a Full stack Developer, from India</h2>
 
 ###
 
