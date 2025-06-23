@@ -1,4 +1,4 @@
-<br clear="both">
+<br clear="both" align="center">
 
 <h2 align="left">Hi 👋! My name is Om Yerane and I'm a Full stack Developer, from India</h2>
 
