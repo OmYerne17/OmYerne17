@@ -40,5 +40,5 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxoNmtvazdhb3I3ejQ5OWdud2VndzUyN3B2N2R5eDVzNWIyZmx6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
