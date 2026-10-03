@@ -40,5 +40,5 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img height="150" src="https://i.imgflip.com/65efzo.gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" />
 </div>
